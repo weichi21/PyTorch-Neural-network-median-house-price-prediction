@@ -16,6 +16,3 @@
 - Test score (MAPE): 20.1813
 - Test R2 Score: 0.792
 - Average Accuracy: 79.82%
-
-### Future Step
-- 
